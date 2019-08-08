@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.bae</groupId>
 	<artifactId>AccountPrizeGen</artifactId>
-	<version>pSNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>AccountPrizeGen</name>
 	<description>Demo project for Spring Boot</description>
 
